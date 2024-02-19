@@ -1,0 +1,5 @@
+JVM - traduz o bitcode em codigo de máquina
+
+JRE - Java Runtime Environment - Ambiente de execução java
+
+JDK - é tudo isso junto
