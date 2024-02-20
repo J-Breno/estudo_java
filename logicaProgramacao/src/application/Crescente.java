@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.Locale;
 
+package application;
+
 public class Crescente {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
